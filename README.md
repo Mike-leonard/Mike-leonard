@@ -15,7 +15,7 @@
 
 ****
 
-<img src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/hello_world.gif" width="30px">&nbsp; <strong>Here are some ideas to get you started:</strong>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <strong>Here are some ideas to get you started:</strong>
 
 - 🔭 I’m currently working on <strong>Android Application Development</strong> and <strong>Full-Stack Web Development</strong>
 - 🌱 I’m currently learning <strong>Kotlin</strong>
@@ -39,7 +39,7 @@
 ****
 
 **Languanges & Tools**
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
+<img align="right" src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/hello_world.gif" width="400px" />
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=androidstudio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
