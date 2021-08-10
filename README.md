@@ -1,14 +1,14 @@
 <div align="center">
 <h3> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Md. Mahmudul Hasan </h3>
 <p>Welcome to my profile. Most of my public repo are all about Android.</p>
-	<a href="https://twitter.com/">
-		<img align="center" alt="Anton T| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+	<a href="http://sphinix.design.ezyro.com/">
+		<img align="center" alt="Sphinix.design" width="22px" src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/favicon.png" />
 	</a>
-	<a href="https://www.linkedin.com/in/">
-		<img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<a href="https://www.linkedin.com/hasan-mortuza">
+		<img align="center" alt="Linkedin" width="22px" src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/linkedin-icon.svg" />
 	</a>
-	<a href="https://www.facebook.com/">
-		<img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+	<a href="https://www.facebook.com/M.h.mortuza">
+		<img align="center" alt="Facebook" width="22px"  src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/facebook.svg" />
 	</a>
 	<br />
 </div>
