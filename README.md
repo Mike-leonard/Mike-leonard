@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Md. Mahmudul Hasan </h3>
+<h3> Hi <img src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/hi.gif" width="30px">, I am Md. Mahmudul Hasan </h3>
 <p>Welcome to my profile. Most of my public repo are all about Android.</p>
 	<a href="http://sphinix.design.ezyro.com/">
 		<img align="center" alt="Sphinix.design" width="22px" src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/favicon.png" />
@@ -15,7 +15,7 @@
 
 ****
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <strong>Here are some ideas to get you started:</strong>
+<img src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/giphy.webp" width="30px">&nbsp; <strong>Here are some ideas to get you started:</strong>
 
 - 🔭 I’m currently working on <strong>Android Application Development</strong> and <strong>Full-Stack Web Development</strong>
 - 🌱 I’m currently learning <strong>Kotlin</strong>
@@ -87,7 +87,7 @@
 
 <p align="center">
   
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+  <img width="200" height="100" src="https://github.com/Mike-leonard/Mike-leonard/blob/main/resources/thanks.gif">
 
 </p>
 
